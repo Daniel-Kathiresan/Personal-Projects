@@ -42,6 +42,7 @@ else:
     webbrowser.get("chrome").open(trademePost)
     webbrowser.get("chrome").open(facebookPost)
     webbrowser.get("chrome").open(turnersPost)
+    webbrowser.get("chrome").open(autotraderPost)
 
 while plate!= "STOP":
     print("Enter carjam plate or enter STOP to stop")
